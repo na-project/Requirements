@@ -18,3 +18,5 @@ APK登录账号和密码
 http://bjjy.xfkerich.com/index.htm  
 账号 梁宇森/15915718397  
 密码 718397  
+
+新星小学.zip 是现场app拍的图片，图片和文件夹的命名都是app生成的    
